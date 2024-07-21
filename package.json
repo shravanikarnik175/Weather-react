@@ -5,6 +5,7 @@
   "homepage": "http://shravanikarnik175.github.io/Weather-react",
   "type": "module",
   "scripts": {
+    "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "dev": "vite",
